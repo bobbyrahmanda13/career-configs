@@ -12,7 +12,7 @@
 
 ### Point Point Pertanyaan Interview
 - Perkenalkan diri 
-  > Nama saya bobby rahmanda
+  > Nama saya bobby rahmanda biasa dipanggil bobby, saya lulus dari Universitas Putra Indonesia YPTK Padang dengan gelar sarjana di bidang Teknik Informatika, sebelumnya saya memiliki pengalaman di bidang logistik yaitu admin sparepart yang mana jobdesk nya itu mengelola sparepart seperti menerima, mengeluarkan, pengechekan, stock opname, serta order barang.
 - Job desk yang relevan dengan posisi yang dilamar
 - Purcasing staff dan logistik itu Apa
 - Mekanisme pengalaman sebelumnya yang relevan dengan posisi yang dilamar
