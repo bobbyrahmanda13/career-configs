@@ -16,7 +16,7 @@
 - Job desk yang relevan dengan posisi yang dilamar
 - Purcasing staff dan logistik itu Apa
   - Tugas Utama Purcashing staff
-    - Mencari Supplier atau vendor yang harganya miring tapi kualitas nya **OKE**
+    - Mencari Supplier atau vendor yang harganya sesuai dengan budget perusahaan
     - Melakukan negosiasi harga dan pembayaran
     - Membuat PO (Purchase Order) atau surat pesanan
     - Memastikan barang datang tepat waktu
