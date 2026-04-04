@@ -9,8 +9,6 @@
 
 
 # PT DAP(Dayamitra Alber Perkasa
-## 
-nama saya bobby rahmanda biasa dipanggil bobby saya berumus 29 tahun 
 
 ### Point Point Pertanyaan Interview
 - Perkenalkan diri 
