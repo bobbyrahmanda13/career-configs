@@ -8,10 +8,11 @@
 - Apa yang anda lakukan untuk meningkatkan keterampilan :
 
 
-# PT DAP(Dayamitra Alber Perkasa
+# PT DAP (Dayamitra Alber Perkasa)
 
 ### Point Point Pertanyaan Interview
 - Perkenalkan diri 
+  > Nama saya bobby rahmanda
 - Job desk yang relevan dengan posisi yang dilamar
 - Purcasing staff dan logistik itu Apa
 - Mekanisme pengalaman sebelumnya yang relevan dengan posisi yang dilamar
