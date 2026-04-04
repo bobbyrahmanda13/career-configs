@@ -12,4 +12,16 @@
 
 ## Apa yang anda lakukan untuk meningkatkan keterampilan :
 
-##
+
+# PT DAP(Dayamitra Alber Perkasa
+## 
+nama saya bobby rahmanda biasa dipanggil bobby saya berumus 29 tahun 
+
+### Point Point Pertanyaan Interview
+- Perkenalkan diri 
+- Job desk yang relevan dengan posisi yang dilamar
+- Purcasing staff dan logistik itu Apa
+- Mekanisme pengalaman sebelumnya yang relevan dengan posisi yang dilamar
+- apa yang kamu ketahui tentang PT DAP
+- jelaskan terkait sistem pre order / order barang jika kosong 
+
